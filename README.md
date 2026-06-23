@@ -73,8 +73,7 @@ transportation management systems.
 authentication flows, structured data handling, and dynamic UI rendering.
 * Improved application responsiveness and maintainability through lazy
 loading, reusable components, and efficient state handling.
-*
-Built secure and user-friendly interfaces for operational workflows used in
+* Built secure and user-friendly interfaces for operational workflows used in
 transportation and mobility management environments.
 * Collaborated with backend, DevOps, and product stakeholders to deliver
 reliable application features and stable releases.
