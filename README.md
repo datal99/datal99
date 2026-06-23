@@ -102,9 +102,11 @@ CSS.
 knowledge sharing.
 ---
 ## 🎓 Education
-###Technical University of Munich
-**Bachelor of Science in Computer Science**
-*📍 Munich, Germany | Sep. 2018 - Oct. 2024*
+
+**Technical University of Munich**  
+Bachelor of Science in Computer Science  
+📍 Munich, Germany | Sep. 2018 - Oct. 2024
+
 ---
 ## Projects
 ### Mycros.io Influencer Marketing Platform
