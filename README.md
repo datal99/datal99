@@ -108,7 +108,7 @@ knowledge sharing.
 📍 Munich, Germany  
 *Sep. 2018 - Oct. 2024*
 
-**Bachelor thesis:** Answering SQL Window-Queries with Sqrt Trees
+*Bachelor thesis:* Answering SQL Window-Queries with Sqrt Trees
 ---
 ## Projects
 ### Mycros.io Influencer Marketing Platform
