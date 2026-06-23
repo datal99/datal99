@@ -98,6 +98,7 @@ CSS.
 * Provided support for internal digital services, user access, and websiterelated issues.
 * Created and maintained technical documentation to support continuity and
 knowledge sharing.
+
 ---
 ## 🎓 Education
 
@@ -115,6 +116,7 @@ business workflows.
 Built administrative frontend interfaces for managing transportation data
 using modular UI components, REST API integration, and responsive design
 principles.
+
 ---
 ## Languages
 * English: Fluent
