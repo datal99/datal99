@@ -107,7 +107,6 @@ knowledge sharing.
 **Bachelor of Science in Computer Science**  
 📍 Munich, Germany  
 *Sep. 2018 - Oct. 2024*
-
 *Bachelor thesis:* Answering SQL Window-Queries with Sqrt Trees
 ---
 ## Projects
