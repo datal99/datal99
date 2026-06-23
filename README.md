@@ -101,13 +101,14 @@ CSS.
 * Created and maintained technical documentation to support continuity and
 knowledge sharing.
 ---
-## Education
-### Technical University of Munich
-**Bachelor of Science in Computer Science**
- Munich, Germany
+## 🎓 Education
+
+### Technical University of Munich  
+**Bachelor of Science in Computer Science**  
+📍 Munich, Germany  
 *Sep. 2018 - Oct. 2024*
-**Bachelor Thesis:**
-*Answering SQL Window-Queries with Sqrt Trees*
+
+**Bachelor thesis:** Answering SQL Window-Queries with Sqrt Trees
 ---
 ## Projects
 ### Mycros.io Influencer Marketing Platform
