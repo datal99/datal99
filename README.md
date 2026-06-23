@@ -143,4 +143,3 @@ principles.
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-thebadge&logo=github&logoColor=white" alt="GitHub" />
  </a>
 </div>
-4
