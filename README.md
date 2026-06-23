@@ -103,10 +103,9 @@ knowledge sharing.
 ---
 ## 🎓 Education
 
-**Technical University of Munich** — Bachelor of Science in Computer Science  
+**Technical University of Munich**  
+Bachelor of Science in Computer Science  
 📍 Munich, Germany | Sep. 2018 - Oct. 2024
-
-Thesis: *Answering SQL Window-Queries with Sqrt Trees*
 ---
 ## Projects
 ### Mycros.io Influencer Marketing Platform
