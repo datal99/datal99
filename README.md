@@ -36,7 +36,6 @@ UI, and Component-Based Architecture**.
 * TypeScript
 * ReactJS
 * Angular
-1
 * HTML5
 * CSS3
 * Responsive Design
@@ -78,7 +77,6 @@ transportation and mobility management environments.
 * Collaborated with backend, DevOps, and product stakeholders to deliver
 reliable application features and stable releases.
 ---
-2
 ### Software Developer
 **Mycros Bilisim A.S.** | *Oct. 2021 - Jul. 2023*
  Istanbul, Türkiye
@@ -112,12 +110,7 @@ knowledge sharing.
 *Answering SQL Window-Queries with Sqrt Trees*
 ---
 ## Projects
-### Roster & Attendance Management System
-Developed a full stack web application for roster and attendance management,
-including external API integration, OAuth 2.0 authentication, GraphQL
-communication, and persistent data storage.
 ### Mycros.io Influencer Marketing Platform
-3
 Contributed to a role-based web platform connecting influencers and brands,
 including dashboard development, dynamic data rendering, and structured
 business workflows.
