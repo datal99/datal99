@@ -26,8 +26,7 @@ development, cloud services, and scalable web architectures**.
 * Main focus: **Full Stack Web Development, API Integration, Responsive
 UI, and Component-Based Architecture**.
 * Location: **USA**.
-* How to reach me: **[deniz.atal@outlook.com]
-(mailto:deniz.atal@outlook.com)**.
+* How to reach me: **[deniz.atal@outlook.com](mailto:deniz.atal@outlook.com)**.
 ---
 ## Skills & Technologies
 ### Frontend
