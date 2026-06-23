@@ -8,8 +8,7 @@ and cloud-supported web solutions.
 My main focus is developing clean frontend architectures, integrating backend
 services, improving application performance, and delivering reliable software
 that supports real business workflows.
-> *"Building reliable software starts with understanding both the user and
-the system."*
+>
 ---
 ## About Me
 Currently, I am working as a **Software Development Specialist** at **ASIS
